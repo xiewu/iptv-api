@@ -48,6 +48,7 @@ pipeline 🚀. Supports extensive customization; paste the resulting URL into yo
 - [❤️ Donations](#donations)
 - [👀 Follow](#follow)
 - [⭐️ Star History](#star-history)
+- [⚠️ Disclaimer](#disclaimer)
 - [⚖️ License](#license)
 
 > [!IMPORTANT]
@@ -324,9 +325,9 @@ WeChat public account search for Govin, or scan the code to receive updates and 
 
 ![Wechat public account](./static/images/qrcode.jpg)
 
-### Customization (Paid)
+### Need more help?
 
-For remote deployment or custom services, please contact: `360996299@qq.com`
+Contact via email: `360996299@qq.com`
 
 ## Star History
 
@@ -339,6 +340,18 @@ For remote deployment or custom services, please contact: `360996299@qq.com`
 | Alipay                                | Wechat                                    |
 |---------------------------------------|-------------------------------------------|
 | ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
+
+## Disclaimer
+
+- This project is provided as a tool/framework only; it does not include or provide any live streams, copyrighted
+  programs, or other third-party content. Users must add their own data sources and ensure that the data sources used
+  and their use comply with applicable laws and regulations in their jurisdiction.
+- Users are solely responsible for any content obtained, distributed, or played through this project. Do not use it to
+  distribute, share, or watch copyrighted content without authorization.
+- When using this project, comply with local laws, regulations, and supervisory requirements. The author is not liable
+  for any legal responsibility arising from users' use of this project.
+- For commercial, corporate, or production use, it is recommended to consult legal counsel and perform a compliance
+  review.
 
 ## License
 
